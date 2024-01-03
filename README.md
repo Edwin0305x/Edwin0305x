@@ -1,6 +1,4 @@
-<img src="./nah.png #gh-light-mode-only" align="right" height="220" width="210" />
-<img src="./nah.png #gh-dark-mode-only" align="right" height="220" width="210" />
-
+![](nah.png)
 <h1>Ola Amigos!</h1>
 <h2>Me Ritam</h2>
 <h3>Nice to meet ya</h3>
